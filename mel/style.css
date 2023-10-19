@@ -1,0 +1,22 @@
+body {
+    background-image: url('imagenes/WhatsApp Image 2023-10-16 at 3.15.12 PM.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center; /* Alinea el texto en el centro */
+}
+
+.title {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px; /* Ajusta el tamaño de la fuente según tus preferencias */
+}
+
+.centered-text {
+    font-size: 18px; /* Ajusta el tamaño de la fuente según tus preferencias */
+}
